@@ -252,23 +252,26 @@ predict_image(model, image_index=55, dataset=test_dataset)
 
 ## Training Loss, Validation Loss Vs Iteration Plot
 
-<img width="618" height="534" alt="image" src="https://github.com/user-attachments/assets/42af5b1b-1eaa-4b42-9fe1-4b71f006bf6d" />
 
+
+<img width="926" height="541" alt="image" src="https://github.com/user-attachments/assets/2daf8426-1761-42fd-ba75-6d3c9af5919b" />
 
 ## Confusion Matrix
 
-<img width="560" height="412" alt="image" src="https://github.com/user-attachments/assets/fd72e656-9b1b-4770-89be-99d6f2522cdc" />
+<img width="667" height="460" alt="image" src="https://github.com/user-attachments/assets/b4207c59-cd00-4700-b684-8c7efb35864c" />
 
 
 ## Classification Report
 
-<img width="346" height="147" alt="image" src="https://github.com/user-attachments/assets/11928e07-915c-46bb-9663-0d3151e8d2a2" />
 
+
+<img width="1504" height="246" alt="image" src="https://github.com/user-attachments/assets/890d034a-26d7-4ae9-87f3-11545577dc4f" />
 
 ### New Sample Data Prediction
 
-<img width="488" height="290" alt="image" src="https://github.com/user-attachments/assets/252471c2-9e9a-4b6d-aa46-c8ac46419137" />
 
+
+<img width="932" height="500" alt="image" src="https://github.com/user-attachments/assets/186d219c-ec9a-4cee-997a-6695a9dcaaf0" />
 
 ## RESULT
 The image classification model using transfer learning with VGG19 architecture for the given dataset has been executed successfully.
